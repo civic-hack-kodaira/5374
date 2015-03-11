@@ -139,3 +139,9 @@ a:hover {
 	 color: #FF0000;
 	 text-decoration: underline;
 }
+
+/* add(2015.3.11) */
+#about5374kodaira > a{
+	 color: #000;
+	 text-decoration: underline;
+}
